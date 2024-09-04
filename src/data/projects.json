@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Clastic",
+    "imageSrc": "projects/clastic.png",
+    "description": "An Android app that allows user to convert plastic waste into spendable points",
+    "skills": ["Android", "Kotlin", "Compose"],
+    "demo": null,
+    "source": "https://github.com/lsatriosim/clastic-app"
+  },
+  {
+    "title": "Github User App",
+    "imageSrc": "projects/github-user.png",
+    "description": "An Android app that can find any Github user, and also add any users to favorites",
+    "skills": ["Android", "Kotlin"],
+    "demo": null,
+    "source": "https://github.com/warrenpolandra/Submission-Dicoding-Belajar-Fundamental-Aplikasi-Android"
+  },
+  {
+    "title": "Story App",
+    "imageSrc": "projects/story-app.png",
+    "description": "An Android app where users can post and view other user's stories containing image and description",
+    "skills": ["Android", "Kotlin"],
+    "demo": null,
+    "source": "https://github.com/warrenpolandra/Submission-Dicoding-Belajar-Pengembangan-Aplikasi-Android-Intermediate"
+  },
+  {
+    "title": "Web Encryption App",
+    "imageSrc": "projects/encryption-app.png",
+    "description": "A web-based project that allows user to encrypt any media using kinds of encryption algorithm",
+    "skills": ["NextJS", "TypeScript", "GoLang"],
+    "demo": null,
+    "source": "https://github.com/warrenpolandra/InformationSecurity_FE"
+  },
+  {
+    "title": "Pathfinding Visualizer",
+    "imageSrc": "projects/pathfinding-visualizer.png",
+    "description": "A web-based project used to visualize various pathfinding algorithm",
+    "skills": ["React", "HTML", "css", "Javascript"],
+    "demo": "https://pathfinding-visualizer-six.vercel.app/",
+    "source": "https://github.com/doandadr/pathfinding-visualizer"
+  },
+  {
+    "title": "Candy Works",
+    "imageSrc": "projects/candy-works.png",
+    "description": "A web-based project used to visualize ThreeJS implementation in a form of an online candy store",
+    "skills": ["React", "NextJS", "TypeScript"],
+    "demo": "https://candy-works.vercel.app/",
+    "source": "https://github.com/winatungmiharja/candy-works"
+  },
+  {
+    "title": "Books API",
+    "imageSrc": "projects/project.png",
+    "description": "Back end application that allows user to manage information about books and the authors",
+    "skills": ["Java", "Spring Boot", "PostgreSQL"],
+    "demo": null,
+    "source": "https://github.com/warrenpolandra/Books-API"
+  },
+  {
+    "title": "Bookshelf API",
+    "imageSrc": "projects/project.png",
+    "description": "Back end application that allows user to manage information about books",
+    "skills": ["NodeJS", "Javascript"],
+    "demo": null,
+    "source": "https://github.com/warrenpolandra/NodeJS-Bookshelf-API"
+  }
+]

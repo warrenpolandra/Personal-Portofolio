@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Android Development Path",
+    "organization": "Bangkit Academy",
+    "startDate": "February 2023",
+    "endDate": "June 2023",
+    "experiences": ["Android Development"],
+    "imageSrc": "history/bangkit.jpg"
+  },
+  {
+    "role": "IT Development Intern",
+    "organization": "Bank Neo Commerce",
+    "startDate": "August 2023",
+    "endDate": "December 2023",
+    "experiences": ["Android Development", "Feature Improvement", "Money Tracker"],
+    "imageSrc": "history/bnc.png"
+  },
+  {
+    "role": "Mobile Programming Teaching Assistant",
+    "organization": "Institut Teknologi Sepuluh Nopember",
+    "startDate": "February 2024",
+    "endDate": "June 2024",
+    "experiences": ["Android", "Jetpack Compose", "Flutter"],
+    "imageSrc": "history/its.png"
+  }
+]
