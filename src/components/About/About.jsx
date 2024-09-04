@@ -8,7 +8,7 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("about/aboutImage.png")}
+          src={getImageUrl("about/male-avatar.png")}
           alt="About Section"
           className={styles.aboutImg}
         />
@@ -28,7 +28,7 @@ export const About = () => {
             alt="Server Icon" />
             <div className={styles.aboutItemText}>
               <h3>Back-End Developer</h3>
-              <p>I have a few basic experience in Back End Development. Some of the projects that I have developed were built using Node JS, Express JS, GoLang, and Spring Boot.</p>
+              <p>I have a few basic experience in Back End Development. Some of the projects that I have developed were built using Node JS, GoLang, and Spring Boot.</p>
             </div>
           </li>
           <li className={styles.aboutItem}>
