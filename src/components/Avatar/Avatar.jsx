@@ -12,7 +12,7 @@ export const Avatar = () => {
       </div>
       <img
         className={styles.avatarImg}
-        src={getImageUrl("hero/pasfoto.jpeg")}
+        src={getImageUrl("hero/profile_picture.JPG")}
         alt="Avatar"
       />
       <div className={styles.topBlur}></div>
